@@ -17,7 +17,7 @@ int main()
     int n;
     cin>>n;
  main
-    towerOfHanoi(n, '1', '2', '3','4','5','6');
+    towerOfHanoi(n, '1', '2', '3','4','5');
 
     towerOfHanoi(n, '1', '2', '3','4','5');
  main
